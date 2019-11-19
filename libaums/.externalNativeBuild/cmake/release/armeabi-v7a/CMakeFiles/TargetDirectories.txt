@@ -1,0 +1,3 @@
+/Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/errno-lib.dir

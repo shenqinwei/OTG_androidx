@@ -1,0 +1,3 @@
+/Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/x86/CMakeFiles/errno-lib.dir

@@ -1,0 +1,40 @@
+{
+  "stringTable": {
+    "0": "/Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=/Users/p-dev/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/p-dev/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Derrno_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/Users/p-dev/OTG_androidx/libaums/../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/p-dev/OTG_androidx/libaums/../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/p-dev/OTG_androidx/libaums/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/p-dev/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/x86 --target clean"
+  ],
+  "libraries": {
+    "errno-lib-Release-x86": {
+      "buildCommand": "/Users/p-dev/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/x86 --target errno-lib",
+      "buildType": "release",
+      "toolchain": "1375898917",
+      "abi": "x86",
+      "artifactName": "errno-lib",
+      "files": [
+        {
+          "src": "/Users/p-dev/OTG_androidx/libaums/src/c/errno.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/p-dev/OTG_androidx/libaums/build/intermediates/cmake/release/obj/x86/liberrno-lib.so"
+    }
+  },
+  "toolchains": {
+    "1375898917": {
+      "cCompilerExecutable": "/Users/p-dev/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,3 @@
+# ninja log v5
+0	224	1574153934	CMakeFiles/errno-lib.dir/src/c/errno.c.o	a9bc44934d3e1f6b
+224	264	1574153934	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/liberrno-lib.so	d3a75191acb5225e

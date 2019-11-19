@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/p-dev/OTG_androidx/libaums/../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/p-dev/OTG_androidx/libaums/../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/p-dev/OTG_androidx/libaums/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/p-dev/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "errno-lib-Release-armeabi-v7a": {
+      "artifactName": "errno-lib",
+      "buildCommand": "/Users/p-dev/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/release/armeabi-v7a --target errno-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/p-dev/OTG_androidx/libaums/build/intermediates/cmake/release/obj/armeabi-v7a/liberrno-lib.so"
+    }
+  }
+}

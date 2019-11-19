@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/p-dev/OTG_androidx/libaums/../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/p-dev/OTG_androidx/libaums/../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/p-dev/OTG_androidx/libaums/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/p-dev/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/debug/x86_64 --target clean"
+  ],
+  "libraries": {
+    "errno-lib-Debug-x86_64": {
+      "artifactName": "errno-lib",
+      "buildCommand": "/Users/p-dev/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/p-dev/OTG_androidx/libaums/.externalNativeBuild/cmake/debug/x86_64 --target errno-lib",
+      "abi": "x86_64",
+      "output": "/Users/p-dev/OTG_androidx/libaums/build/intermediates/cmake/debug/obj/x86_64/liberrno-lib.so"
+    }
+  }
+}
